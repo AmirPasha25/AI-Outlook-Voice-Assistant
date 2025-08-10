@@ -20,7 +20,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 
 # OpenAI API configuration
-OPENAI_API_KEY = ""  # Replace with your actual API key, i'm student so i bought one for 10$OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
+OPENAI_API_KEY = ""  # Replace with your actual API key, i'm student so i bought one for 10$
+OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 
 def speak(text):
     """Use Google Text-to-Speech for a high-quality female voice"""
