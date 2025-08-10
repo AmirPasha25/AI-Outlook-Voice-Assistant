@@ -1,0 +1,9 @@
+SpeechRecognition==3.10.0
+gTTS==2.3.2
+pygame==2.5.1
+PyAudio==0.2.13
+requests==2.31.0
+PyAutoGUI==0.9.54
+selenium==4.13.0
+webdriver-manager==4.0.0
+Pillow==10.0.0 
