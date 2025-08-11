@@ -342,9 +342,9 @@ def get_email_details():
                     
                     # Handle the professor case
                     if "professor" in text:
-                        to_address = "sivanipanigrahi@my.unt.edu"
+                        to_address = "professor@my.unt.edu"
                         print(f"DEBUG: Using professor's email: {to_address}")
-                        speak(f"Using Professor Sivani Panigrahi's email: {to_address}")
+                        speak(f"Using Professor's email: {to_address}")
                     else:
                         # For other cases, process normally
                         to_address = text.replace(" at ", "@").replace(" dot ", ".")
