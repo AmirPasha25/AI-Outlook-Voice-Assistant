@@ -13,10 +13,4 @@ A Python-based voice assistant that continuously listens for the wake word "Hell
 ## Usage
 
 Simply run the Python script and it will start listening immediately:
-
 When the assistant hears "Hello Outlook", it will respond with "Hi there, how are you? How can I help you today?"
-<<<<<<< HEAD
-Press Ctrl+C to exit the program. 
-=======
-Press Ctrl+C to exit the program. 
->>>>>>> 7199afbf4a7d5d6a1b435861aab173298df99489
